@@ -1,3 +1,10 @@
+---
+layout: prose
+rss_ignore: true
+title: Keyboards
+menu:
+  main:
+    weight: 90
+---
 
-[Serenity](/posts/serenity/)
-[Despair](/posts/despair/)
+placeholder
