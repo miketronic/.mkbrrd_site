@@ -9,6 +9,9 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy"]
 enableRobotsTXT = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
   defaultTheme = "dark"
