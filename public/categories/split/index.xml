@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Split on MKBRRD</title>
+    <link>//localhost:1313/categories/split/</link>
+    <description>Recent content in Split on MKBRRD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mxb540@gmail.com (Mike Barnoski)</managingEditor>
+    <webMaster>mxb540@gmail.com (Mike Barnoski)</webMaster>
+    <copyright>© mike barnoski</copyright>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/split/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serenity</title>
+      <link>//localhost:1313/serenity/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate><author>mxb540@gmail.com (Mike Barnoski)</author>
+      <guid>//localhost:1313/serenity/</guid>
+        <media:content url="//localhost:1313/serenity/01_serenity_001_hu_f49699aee6178ee2.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/serenity/01_serenity_001_hu_f49699aee6178ee2.jpg&quot; /&gt;
+          &lt;p&gt;A split mechanical keyboard with one trackball on each half. The left trackball is currently set for vertical page scrolling while the right one is for normal pointing like a mouse. The key positioning is the same as the familiar Corne (crkbd). For five-column Corne users, you can remove the outer columns with the breakaway tabs.&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

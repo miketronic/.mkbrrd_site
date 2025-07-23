@@ -1,0 +1,59 @@
+baseurl = "/"
+languageCode = "en-us"
+
+title = "MKBRRD Keyboards"
+theme = "gallery"
+
+copyright = "© mike barnoski"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy"]
+enableRobotsTXT = true
+
+
+[params]
+  defaultTheme = "dark"
+  description = "A site about custom keyboard designing and building."
+  title = "My Gallery"
+  [params.author]
+    email = "mxb540@gmail.com"
+    name = "Mike Barnoski"
+  [params.socialIcons]
+    facebook = "https://www.facebook.com/"
+    instagram = "https://www.instagram.com/mkbrrd"
+    github = "https://github.com/miketronic"
+    youtube = "https://www.youtube.com/"
+    email = "mailto:user@example.com"
+    #website = "https://example.com"
+    #mastodon = "https://example.com"
+    #pixelfed = "https://example.com"
+    #mixcloud = "https://example.com"
+    #flickr = "https://www.flickr.com"
+    #500px = "https://500px"
+    #whatsapp = "1234567890"
+  [params.gallery]
+    #boxSpacing = 10
+    #targetRowHeight = 288
+    #targetRowHeightTolerance = 0.25
+
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[menu]
+  [[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/miketronic/"
+    weight = 3
+
+[services]
+  [services.rss]
+    limit = 100
