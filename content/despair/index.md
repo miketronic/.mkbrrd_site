@@ -10,8 +10,8 @@ weight: 1
 menus: "main"
 # list pages require at least one image to be displayed.
 resources:
-  - src: 01_serenity_001.jpg
-    title: Need to get the correct images
+  - src: despair_001.jpg
+    title: 
     params:
       cover: true
 ---
